@@ -3,7 +3,7 @@
  containing demographic and clinical data of OCD patients. The analysis will focus on
  understanding the relationships between various demographic factors and clinical
  outcomes.
-About Dataset:
+# About Dataset:
  The "OCD Patient Dataset: Demographics & Clinical Data" is a comprehensive
  collection of information pertaining to 1500 individuals diagnosed with
  Obsessive-Compulsive Disorder (OCD). This dataset encompasses a wide range
